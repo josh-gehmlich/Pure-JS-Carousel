@@ -1,0 +1,20 @@
+{
+  "name": "pure-js-and-css-carousel",
+  "version": "1.0.0",
+  "description": "Pure JavaScript and CSS Carousel",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --mode=development --watch --hot"
+  },
+  "repository": "https://github.com/superjose/webpack-simple-example.git",
+  "author": "Dolet Bizhev <doletbizhev.dev@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "webpack": "^4.17.1"
+  },
+  "devDependencies": {
+    "@fortawesome/fontawesome-free": "^5.9.0",
+    "webpack-cli": "^3.1.0"
+  }
+}

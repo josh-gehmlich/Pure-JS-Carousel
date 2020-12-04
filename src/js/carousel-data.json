@@ -1,0 +1,29 @@
+{
+  "titles": {
+    "courseTitle": "HTML5 Assignment",
+    "pageTitle": "Beyond 'click-next-to-continue'",
+    "carouselTitle": "How we create unforgettable experiences"
+  },
+  "slides": [
+    {
+      "icon": "fa-book-reader",
+      "title": "Mobile learning and apps",
+      "description": "Learners expect experiences they can touch and tools which are accessible from anywhere. We use HTML5 to build responsive content which learners can navigate like the apps and websites they love. One experience on any device."
+    },
+    {
+      "icon": "fa-video",
+      "title": "Animations and video",
+      "description": "An eye-popping animation is a great way to open a course. It’s also a standalone asset to help you promote it. You can have a message from your CEO to open the training, video testimonials from some of your employees, interviews with your subject matter experts or dramatised scenarios using actors. You can film in a studio, on location or in virtual worlds (using green or blue screen)."
+    },
+    {
+      "icon": "fa-chalkboard-teacher",
+      "title": "Interaction and scenarios",
+      "description": "What makes great classroom training great? Often it’s the instructor involving the audience, encouraging interaction – and making eye contact. We believe online training is no different. Our elearning solutions are fully interactive, using activities, quizzes and highly developed scenarios."
+    },
+    {
+      "icon": "fa-award",
+      "title": "Gamification",
+      "description": "Game mechanics in learning motivate achievement by satisfying psychological needs. We build in performance indicators that measure how well learners doing as they answer questions, complete tasks or make decisions. This flags up weaker areas early on and spurs them on when they’re on a roll."
+    }
+  ]
+}
